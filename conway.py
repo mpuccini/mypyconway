@@ -3,11 +3,11 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 # set conf
-Nr = 10 # rows number
-Nc = 200 # columns number
-n = 6 # seed matrix dimension (nxn)
-S = 60 # number of seeds
-G = 1000 # number of generations
+Nr = 20 # rows number
+Nc = 20 # columns number
+n = 3 # seed matrix dimension (nxn)
+S = 10 # number of seeds
+G = 100 # number of generations
 st = 'rand'
 
 
